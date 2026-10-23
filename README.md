@@ -1,54 +1,38 @@
-# John Chisholm, MSc, ASCC, CSCS
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/318262942?v=4" alt="Applied Sport Science logo" width="88" />
+</p>
 
-### Applied Sport Scientist | Strength & Conditioning Coach | Sports Technology
+<p align="center">
+  <img src="./assets/applied-sport-science-header.svg" alt="Applied Sport Science — Football performance, made practical. Evidence • Performance • Practice." width="100%" />
+</p>
 
-Welcome to my GitHub profile.
+<h1 align="center">John Chisholm, MSc, ASCC, CSCS</h1>
 
-I'm an applied sport scientist and accredited strength and conditioning coach with experience across professional football, youth academy development and education.
+<p align="center"><strong>Applied Sport Scientist · Strength & Conditioning Coach · Sports Technology</strong></p>
 
-Through **Applied Sport Science**, I combine evidence-based practice, applied coaching experience and technology to create practical solutions for coaches, sport scientists and athletes.
+<p align="center">
+  <a href="https://appliedsportscience.co.uk">Website</a>
+  &nbsp;·&nbsp;
+  <a href="https://lab.appliedsportscience.co.uk">GPS &amp; Power BI Practice Lab</a>
+</p>
 
-🌐 **Website:** https://appliedsportscience.co.uk
+I’m an applied sport scientist and accredited strength and conditioning coach with experience across professional football, youth academy development and education. Through **Applied Sport Science**, I connect evidence, coaching practice and technology to make performance information useful in the real world.
 
----
+## Projects
 
-## 🚀 Current Projects
+| Project | Overview |
+| --- | --- |
+| **AS Performance** · *In development* | A player-focused strength & conditioning app in development. |
+| **[GPS & Power BI Practice Lab](https://lab.appliedsportscience.co.uk)** | Six guided exercises using football GPS data, from building a report to interpreting what it shows. |
+| **[Applied Sport Science](https://appliedsportscience.co.uk)** | Practical football performance support, applied work, insights and resources for coaches and practitioners. |
 
-### ⚽ AS Performance
-A digital strength and conditioning platform designed to support individualised athlete programming, performance monitoring and coach-athlete communication.
+## Areas of focus
 
-### 📊 GPS & Power BI Practice Lab
-An interactive learning environment designed to help coaches and sport scientists develop practical skills in GPS analysis, data visualisation and performance reporting.
+- Strength & conditioning and football performance
+- Youth athlete development
+- Speed, power and neuromuscular performance
+- GPS monitoring and training load
+- Performance analytics and data visualisation
+- Applied research and evidence-informed practice
 
-**Explore the Lab:** https://lab.appliedsportscience.co.uk
-
-### 🌐 Applied Sport Science Website
-A professional platform sharing research-informed articles, practical resources and insights into strength and conditioning, athlete monitoring and sports performance.
-
-**Visit:** https://appliedsportscience.co.uk
-
----
-
-## 🧠 Areas of Expertise
-
-- Strength & Conditioning
-- Football Performance & Youth Athlete Development
-- Speed, Power & Neuromuscular Performance
-- GPS Monitoring & Training Load Management
-- Performance Analytics & Data Visualisation
-- Applied Research & Evidence-Based Practice
-- Sports Technology Development
-
----
-
-## 🎯 My Approach
-
-**Evidence • Performance • Practice**
-
-My focus is on bridging the gap between scientific research and practical application, developing tools and resources that help practitioners make better-informed decisions.
-
----
-
-**John Chisholm, MSc, ASCC, CSCS**
-
-🌐 [Applied Sport Science](https://appliedsportscience.co.uk)
+<p align="center"><strong>Evidence · Performance · Practice</strong></p>
